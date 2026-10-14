@@ -1,0 +1,10 @@
+STUDENT PERFORMANCE ANALYZER — SUMMARY REPORT
+================================================
+Number of students: 20
+Overall average across subject marks: 69.90
+Subject with lowest average: Maths (68.65)
+Highest average: Priya (92.00)
+Pass rate (all subjects >= 35): 100.0%
+Students with attendance below 75%: 6
+
+Note: The dataset is fictional. Patterns are descriptive and do not establish causation.
